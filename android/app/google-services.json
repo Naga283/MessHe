@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974764264985",
+    "project_id": "chattingapplication-e0ad1",
+    "storage_bucket": "chattingapplication-e0ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974764264985:android:283abe303e81fcd877e488",
+        "android_client_info": {
+          "package_name": "com.naga.chattingappli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974764264985-rvbfaevmb7umjitmtfh6dr0vl2q4aaff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswAntQmOJBxnjpBwC2q-ySGm0yQx3P2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974764264985-rvbfaevmb7umjitmtfh6dr0vl2q4aaff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
